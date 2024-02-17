@@ -3,6 +3,7 @@ package LeetCode;
 import java.util.Scanner;
 
 public class EvenNumberOfDigits_1295_Efficient {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the size of the array: ");
