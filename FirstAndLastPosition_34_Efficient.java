@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class FirstAndLastPosition_34_Efficient {
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the size of the array: ");
